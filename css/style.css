@@ -1,0 +1,19 @@
+:root {
+    --width_form: 50%;
+    --height_form: 50vh;
+}
+body { 
+    margin:0; 
+    font: normal 75% Arial, Helvetica, sans-serif;
+    background: red; 
+} 
+canvas { 
+    display: block; 
+    vertical-align: bottom; 
+}
+#particles-js { 
+    position:absolute; 
+    width: 100%; 
+    height: 100%; 
+    background-color: #000; 
+} 
